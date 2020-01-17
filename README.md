@@ -35,6 +35,6 @@ We made our model by using [CNN](https://en.wikipedia.org/wiki/Convolutional_neu
 
 ## Result
 
-<iframe src="https://giphy.com/embed/lq9s9QHRGdQGQfbMHB" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![result](https://media.giphy.com/media/lq9s9QHRGdQGQfbMHB/giphy.gif)
 
 In running video if you press 'enter' key, it shows the captured entertainer's information.
