@@ -35,6 +35,6 @@ We made our model by using [CNN](https://en.wikipedia.org/wiki/Convolutional_neu
 
 ## Result
 
-<a href='https://convertio.co/kr/download/'><img src='https://s168.convertio.me/p/Gv4ofM3z5y97H8Bxyd9L9Q/85d7cb39d2b7b3ade0cbd1b6de487e4b/bts_rm_capture.gif'/></a>
+<iframe src="https://giphy.com/embed/lq9s9QHRGdQGQfbMHB" width="480" height="252" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lq9s9QHRGdQGQfbMHB"></a></p>
 
 In running video if you press 'enter' key, it shows the captured entertainer's information.
