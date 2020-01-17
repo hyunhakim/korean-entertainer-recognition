@@ -4,7 +4,7 @@ This repository provide korean entertainer recognition by using openCV and CNN m
 
 And also provide captured entertainer's information with chrome driver.
 
-
+<br />
 
 ## Process
 
@@ -15,7 +15,7 @@ And also provide captured entertainer's information with chrome driver.
 5. Video Capture with model
 6. Provide entertainer's information
 
-
+<br />
 
 ## Example of Data
 
@@ -23,7 +23,7 @@ And also provide captured entertainer's information with chrome driver.
 
 There was a lack of image data. So I used [imgaug](https://github.com/aleju/imgaug) and could make a lot of image data.
 
-
+<br />
 
 ## Our Model
 
@@ -31,3 +31,10 @@ There was a lack of image data. So I used [imgaug](https://github.com/aleju/imga
 
 We made our model by using [CNN](https://en.wikipedia.org/wiki/Convolutional_neural_network) for image classification.
 
+<br />
+
+## Result
+
+![a](C:\Users\student\Downloads\bts_rm_capture.gif)
+
+In running video if you press 'enter' key, it shows the captured entertainer's information.
