@@ -19,7 +19,7 @@ And also provide captured entertainer's information with chrome driver.
 
 ## Example of Data
 
-![image](https://user-images.githubusercontent.com/59254578/72585189-70172580-3930-11ea-96d1-33ee4b01bc83.png)
+![image](https://user-images.githubusercontent.com/59254578/72586061-b3bf5e80-3933-11ea-8f79-c98010572e3d.png)
 
 There was a lack of image data. So I used [imgaug](https://github.com/aleju/imgaug) and could make a lot of image data.
 
@@ -35,6 +35,6 @@ We made our model by using [CNN](https://en.wikipedia.org/wiki/Convolutional_neu
 
 ## Result
 
-![a](C:\Users\student\Downloads\bts_rm_capture.gif)
+<img src='https://s168.convertio.me/p/Gv4ofM3z5y97H8Bxyd9L9Q/85d7cb39d2b7b3ade0cbd1b6de487e4b/bts_rm_capture.gif'/>
 
 In running video if you press 'enter' key, it shows the captured entertainer's information.
